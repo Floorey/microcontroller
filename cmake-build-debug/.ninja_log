@@ -1,0 +1,11 @@
+# ninja log v5
+1	482	7342716047092345	CMakeFiles/microcontroller.dir/main.cpp.obj	72212bc8ea84da1e
+484	613	7342716048403357	microcontroller.exe	ea1b8bfda72bd62f
+3	463	7342716210278162	CMakeFiles/microcontroller.dir/main.cpp.obj	72212bc8ea84da1e
+463	583	7342716211468967	microcontroller.exe	ea1b8bfda72bd62f
+3	1116	7342749533476076	CMakeFiles/microcontroller.dir/main.cpp.obj	72212bc8ea84da1e
+1117	1258	7342749534874205	microcontroller.exe	ea1b8bfda72bd62f
+4	1162	7342816019318284	CMakeFiles/microcontroller.dir/main.cpp.obj	72212bc8ea84da1e
+1162	1303	7342816020723068	microcontroller.exe	ea1b8bfda72bd62f
+4	1098	7342816527579940	CMakeFiles/microcontroller.dir/main.cpp.obj	72212bc8ea84da1e
+1100	1227	7342816528857399	microcontroller.exe	ea1b8bfda72bd62f
